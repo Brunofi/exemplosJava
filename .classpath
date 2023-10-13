@@ -9,5 +9,7 @@
 	<classpathentry kind="src" path="interfaces"/>
 	<classpathentry kind="src" path="exCorretora(interfaces)"/>
 	<classpathentry kind="src" path="excessoes"/>
+	<classpathentry kind="src" path="collections"/>
+	<classpathentry kind="src" path="comparatorComparable"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

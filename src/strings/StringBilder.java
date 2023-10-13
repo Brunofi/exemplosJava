@@ -1,6 +1,6 @@
 package strings;
 
-public class TesteString {
+public class StringBilder {
 
 	public static void main(String[] args) {
 		// String, StringBuilder e StringBuffer

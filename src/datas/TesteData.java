@@ -14,6 +14,7 @@ public class TesteData {
 		
 		String dataAniversario = "20/01/1985";
 		DateFormat formatador2 = new SimpleDateFormat("dd/MM/yyyy");
+		
 		try {
 			Date aniversario = formatador2.parse(dataAniversario);
 			System.out.println(formatador2.format(aniversario));
